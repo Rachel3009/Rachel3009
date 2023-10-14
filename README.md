@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Raquel :)
+## Bem-vindo(a) ao perfil da Raquel :)
 
  <div>
    <a href="https://github.com/rachel3009">
